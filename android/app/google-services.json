@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34653255762",
+    "project_id": "edumantra-b0d0a",
+    "storage_bucket": "edumantra-b0d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34653255762:android:5e33e2e5d7efa425b6478b",
+        "android_client_info": {
+          "package_name": "com.example.dac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Vpcklb5jqqgpzNtyFdxToC3dLyc2GSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
